@@ -186,8 +186,6 @@ Cloud Security
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=devbyDiya&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
@@ -205,7 +203,7 @@ Cloud Security
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/devbyDiya/devbyDiya/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/devbyDiya/devbyDiya/gh-pages/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" />
 
 </div>
 
