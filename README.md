@@ -186,18 +186,19 @@ Cloud Security
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devbyDiya&show_icons=true&theme=chartreuse-dark&hide_border=true&icon_color=00FF9C&title_color=00FF9C&text_color=c9d1d9&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=devbyDiya&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyDiya&layout=compact&theme=chartreuse-dark&hide_border=true&title_color=00FF9C&text_color=c9d1d9&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devbyDiya&layout=compact&theme=chartreuse-dark&hide_border=true" height="165"/>
 
 <br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=devbyDiya&theme=highcontrast&hide_border=true&background=0D1117&ring=00FF9C&fire=00FF9C&currStreakLabel=00FF9C"/>
 
 </div>
-
 ---
 
 ## 🐍 Contribution Graph
